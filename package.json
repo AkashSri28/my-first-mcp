@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.27.1",
+    "zod": "^3.25.76"
+  },
+  "name": "my-first-mcp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "devDependencies": {
+    "@types/node": "^25.3.5",
+    "typescript": "^5.9.3"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkashSri28/my-first-mcp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/AkashSri28/my-first-mcp/issues"
+  },
+  "homepage": "https://github.com/AkashSri28/my-first-mcp#readme"
+}
